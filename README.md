@@ -54,26 +54,29 @@ For detailed information on the system's architecture, setup, and usage, please 
    - Analytics and reports on library usage and book circulation.
 
 
+
 **Installation and Setup:**
 
-1. Clone the repository:
-   
-git clone https://github.com/coderashu31/LibManagSys.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/coderashu31/LibManagSys.git
+   ```
 
+2. **Navigate to the project directory:**
+   ```bash
+   cd LibManagSys
+   ```
 
-2. Navigate to the project directory:
-   
-cd LibManagSys
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-3. Install dependencies:
-   
-npm install
-
-
-4. Start the development server:
-   
-npm run dev
 
 
 
